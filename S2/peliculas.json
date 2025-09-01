@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Triple Frontera",
+    "anio": 2019,
+    "duracion": "2h 5m",
+    "genero": "Acción, Suspenso",
+    "clasificacion": "+16",
+    "descripcion": "Un grupo de ex soldados de élite se reúne para robar una fortuna de un narcotraficante en Sudamérica, pero el plan pronto se complica y la lealtad será puesta a prueba.",
+    "imagen": "assets/img/triple-frontera.jpg"
+  },
+  {
+    "titulo": "Kick-Ass",
+    "anio": 2010,
+    "duracion": "1h 57m",
+    "genero": "Acción, Comedia",
+    "clasificacion": "+18",
+    "descripcion": "Un adolescente común decide convertirse en superhéroe aunque no tiene poderes ni entrenamiento. Pronto descubrirá que enfrentarse al crimen no es un juego.",
+    "imagen": "assets/img/kick-ass.jpg"
+  },
+  {
+    "titulo": "Atlanta",
+    "anio": 2016,
+    "duracion": "4 temporadas",
+    "genero": "Drama, Comedia",
+    "clasificacion": "+16",
+    "descripcion": "Earn intenta guiar la carrera musical de su primo 'Paper Boi' mientras ambos enfrentan los altibajos de la fama, la pobreza y la cultura en la ciudad de Atlanta.",
+    "imagen": "assets/img/atlanta.webp"
+  },
+  {
+    "titulo": "Corazones de Acero",
+    "anio": 2014,
+    "duracion": "2h 14m",
+    "genero": "Acción, Drama, Bélico",
+    "clasificacion": "+18",
+    "descripcion": "En los últimos días de la Segunda Guerra Mundial, un sargento estadounidense y su tripulación de tanque deben enfrentarse a terribles desafíos en territorio enemigo.",
+    "imagen": "assets/img/corazones-de-acero.jpg"
+  }
+]
